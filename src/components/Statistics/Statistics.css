@@ -1,0 +1,7 @@
+.Statistics_options {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  background-color: antiquewhite;
+}

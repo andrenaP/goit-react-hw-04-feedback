@@ -1,0 +1,6 @@
+.btn {
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  background-color: antiquewhite;
+}
